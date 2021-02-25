@@ -1,4 +1,4 @@
-baseURL = "http://getoptimal.netlify.com/"
+baseURL = "http://getoptimal.netlify.app/"
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
